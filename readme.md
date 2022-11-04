@@ -1,3 +1,7 @@
+
+![list](attachments/kafka_main.png)
+
+
 # KAFKA Kick Start
 Kafka is real time event driven application. If you want to stream something realtime like uber shows you realtime location of a car or you can see status of your order on any ecommerce site in real time. Kafka can be used their. 
 
