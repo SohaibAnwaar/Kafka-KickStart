@@ -4,4 +4,4 @@ Kafka is real time event driven application. If you want to stream something rea
 
 ## Installation
 1. You need to install docker and docker compose,
-2. You just need to download the file (docker file)[docker-compose.yml] 
+2. You just need to download the file [docker file](docker-compose.yml) 
